@@ -1,0 +1,3 @@
+[submodule "sippycup"]
+	path = sippycup
+	url = https://github.com/wcmac/sippycup.git
